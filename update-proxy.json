@@ -1,15 +1,16 @@
 {
-  "name": "v2.1.0",
-  "notes": "### Bugs Fixes\n\n- 修复导入订阅没有自动重载(不显示节点)的问题\n- 英语状态下修复 Windows 工具栏提示文本超过限制的问题",
-  "pub_date": "2024-08-21T20:08:27.197Z",
+  "name": "v2.0.2",
+  "notes": "### 测试更新",
+  "pub_date": "2024-09-10T00:08:27.197Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZnZmbStDeStNMHR5Wkx4TW1BbFpmekJuaVJpY2RKSkZoR012M1BoRW1xMnZyOTFJMVc1SnQxK3psSEJsV2VTdTd0VmR3TlZXbzJpdVhyT001VUszVXBzeGx2L1pWOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MjcwMjY2CWZpbGU6Q2xhc2ggVmVyZ2VfMS43LjdfeDY0LXNldHVwLm5zaXMuemlwCmcvVjdXaENEVldyZ0ZUMGVFak9pYk5JRXJIaFNCOG9EbWNNeEdKZUo0L2EvdkNabExoKzRjTGo5NUxBK2tSVVFpUDhVMkFMMGNqMXVLWGRVV1FJQkJnPT0K",
-      "url": "https://mirror.ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmdHU3hCMXkvMkFBV0UwckEveVc2K2xiY3JIZmVIU3BkaWxReGN2cGR1ZUpnWC95dkdmZGRkd09ZRHRQLzBsblpuR2tjVERicmpmZXl4citsUDhDblE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MDYyMzY5CWZpbGU6WU1fMi4wLjFfeDY0LXNldHVwLm5zaXMuemlwClJmeEFzRFZmVHpFL3loTldBKzFZRGJCUUdMUkVuTUNEbUcvejJ2UGFnMVFTU3dNOFdwSVZIcnl5b0dBbjc5dm5kWUZEc01OendEWjY3LzhrUlVKTEJnPT0K",
+      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_2.0.1_x64-setup.nsis.zip"
     }
+    ,
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZnZmbStDeStNMHR5Wkx4TW1BbFpmekJuaVJpY2RKSkZoR012M1BoRW1xMnZyOTFJMVc1SnQxK3psSEJsV2VTdTd0VmR3TlZXbzJpdVhyT001VUszVXBzeGx2L1pWOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MjcwMjY2CWZpbGU6Q2xhc2ggVmVyZ2VfMS43LjdfeDY0LXNldHVwLm5zaXMuemlwCmcvVjdXaENEVldyZ0ZUMGVFak9pYk5JRXJIaFNCOG9EbWNNeEdKZUo0L2EvdkNabExoKzRjTGo5NUxBK2tSVVFpUDhVMkFMMGNqMXVLWGRVV1FJQkJnPT0K",
-      "url": "https://mirror.ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmdHU3hCMXkvMkFBV0UwckEveVc2K2xiY3JIZmVIU3BkaWxReGN2cGR1ZUpnWC95dkdmZGRkd09ZRHRQLzBsblpuR2tjVERicmpmZXl4citsUDhDblE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MDYyMzY5CWZpbGU6WU1fMi4wLjFfeDY0LXNldHVwLm5zaXMuemlwClJmeEFzRFZmVHpFL3loTldBKzFZRGJCUUdMUkVuTUNEbUcvejJ2UGFnMVFTU3dNOFdwSVZIcnl5b0dBbjc5dm5kWUZEc01OendEWjY3LzhrUlVKTEJnPT0K",
+      "url": "https://starsea.xyz/upload/YM_2.0.1_x64-setup.nsis.zip"
     } 
   }
 }

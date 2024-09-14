@@ -1,7 +1,7 @@
 {
   "name": "v2.0.2",
-  "notes": "### 仅仅为测试更新 \n 1. 测试更新 \n 2. 和2.0.1完全一致，只改变版本号 \n 3. 更新包在测试服务器，下载有些慢.",
-  "pub_date": "2024-09-10T00:08:27.197Z",
+  "notes": "### 一些调整 \n 1. 其它调整",
+  "pub_date": "2024-09-14T00:08:27.197Z",
   "platforms": {
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmdHU3hCMXkvMkFBV0UwckEveVc2K2xiY3JIZmVIU3BkaWxReGN2cGR1ZUpnWC95dkdmZGRkd09ZRHRQLzBsblpuR2tjVERicmpmZXl4citsUDhDblE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MDYyMzY5CWZpbGU6WU1fMi4wLjFfeDY0LXNldHVwLm5zaXMuemlwClJmeEFzRFZmVHpFL3loTldBKzFZRGJCUUdMUkVuTUNEbUcvejJ2UGFnMVFTU3dNOFdwSVZIcnl5b0dBbjc5dm5kWUZEc01OendEWjY3LzhrUlVKTEJnPT0K",
@@ -9,7 +9,7 @@
     }
     ,
    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnBCbDI3Y1UraDZ0RU9KUVVGdjYreGtjT2t3eGVvTC84eDB0RG1XNXFITEV4MHZMK0dseXlwZGs5dlgrZThKWTZWdjYwaEVFMGM1VktLcVlaU3FSdncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MjA3NTYzCWZpbGU6WU1fMi4wLjJfeDY0LXNldHVwLm5zaXMuemlwCkJpM0ptVlhNSUFJaUNiMGNSWTlkOVQzVUdYbGIydWFWcS94bFgwbkZ3VTkxT0FXR1k5Qnp1RVE1dlZDdmsrUlRJanVpVVpvT2lWUGp1bGxpQitheUJBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmpjY2lvMnRnbXM5bktKV2hFNGFkY2FBMGVhSWhtY01VWHU4OFRmTW5tYUdleTJmMDNNYTRJd1hWUUc4aE9lQkRnNk56SkhWYVNVNEd0ZTQ5QmFXMndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MjgzMjk2CWZpbGU6WU1fMi4wLjJfeDY0LXNldHVwLm5zaXMuemlwCkM4UnpjT3BHam9HNHpjUVh6ZVZzQlAvdVZIeGJ5QXJuT0ZmbkhoU0xpdXJocUpjY0tnby9QMGFzM21tbms3cFpPN1N6QVF1blVZWWozZnNCekRiMkNRPT0K",
       "url": "https://starsea.xyz/upload/YM_2.0.2_x64-setup.nsis.zip"
     }  
   }

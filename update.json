@@ -9,8 +9,8 @@
     }
     ,
    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmpjY2lvMnRnbXM5bktKV2hFNGFkY2FBMGVhSWhtY01VWHU4OFRmTW5tYUdleTJmMDNNYTRJd1hWUUc4aE9lQkRnNk56SkhWYVNVNEd0ZTQ5QmFXMndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MjgzMjk2CWZpbGU6WU1fMi4wLjJfeDY0LXNldHVwLm5zaXMuemlwCkM4UnpjT3BHam9HNHpjUVh6ZVZzQlAvdVZIeGJ5QXJuT0ZmbkhoU0xpdXJocUpjY0tnby9QMGFzM21tbms3cFpPN1N6QVF1blVZWWozZnNCekRiMkNRPT0K",
-      "url": "https://starsea.xyz/upload/YM_2.0.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmtFWjJnYzRBOHNWK0ZIVzZYZlAzOTREbEF1QmJIM1g2RlNtWnk5aGx4STZSMkRoYXV3VlNTbkF5c0l3eGRJWEpHdjBiS2NXaXRhNVNreTRzbXZZaFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2NzMxNDk1CWZpbGU6WU1fMi4wLjNfeDY0LXNldHVwLm5zaXMuemlwCnpIY2NUZmR3S3J1eTRjRks4V3ZjQkZwWlFKSjdSZURLdFpsREE0RXQrL25MS3VaTTZzZUhyRTl6aXcrYkw4Q0hjZTI4T3Y5Wm1aVy9QOU5hRHYxOUJBPT0K",
+      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_2.0.3_x64.zip"
     }  
   }
 }

@@ -11,6 +11,11 @@
    "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnFIaHRKTjYrY3h6ZGpvMlZUTHkvNDFJcjlsZGZSV2FSZnVHZWk3aTFLMThsb21RZEpzT3N3MVp4M3JpTUtUV0xYZEF6ZXp4TmhOaFN4SGZvVTRvNHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2ODE3OTc5CWZpbGU6WU1fMi4wLjRfeDY0LXNldHVwLm5zaXMuemlwCmh2RVh4RktWM2lCc0xWUHpkbGdlbkV3OE90OHp3VEZyZmhBcVdXbnhEMTcvZWdKRzhjRXk1SU5pell6WkE5SUZRUEpXWE56MkdZNWdYejNhQ2lyYUJ3PT0K",
       "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_2.0.4.zip"
-    }  
+    }
+    ,
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnZsR3k3b2VGQUEzbjZheFczQlpwTFB0TzYyVTBPS0pvR29lY0xnSEx4WmhYWit1QVF2bUFrZUl3UVJWZnNhMnJJUzY4MmlwOG5Lb3JiTHI4NE5Vc1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MjQzMzkyCWZpbGU6WU0uYXBwLnRhci5nego2SDROZFdyM3FJSFZkQURHc2VYbFJ0bGwrNUJmem5YM2xKNGhQaWxuNDdZcG5VWEdyeDY1T3FuRE5yQ0IyQ0NVRXBMc25TUkI0R1FZS3B5TGpMbnBDUT09Cg==",
+      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM.2_0_4.tar.gz"
+    }
   }
 }

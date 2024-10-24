@@ -9,8 +9,8 @@
     }
     ,
    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnRRWTFrMGdRV0t4M25pZnJ4c1MzMzJ3TnlJS1l5S0JDcGI0aXRLWUZTdURYYWRBZ3hCZXhKMHNuUlo2VVRqcUtWMzFDbTBINWxmWGtLQmJQcy9MMmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NDk5MTEyCWZpbGU6WU1fMi4wLjZfeDY0LXNldHVwLm5zaXMuemlwCnRaZzcxNGZ4VitrYStyeHE2TnBqaEV3MTF2ZmIveWZlaEpZaDNlb3BwNFE3bjNFandGMm5BUmRyYllYK2V4LzVRSzVwZ1V1MGF4RHYrRzZiL3VlOURBPT0K",
-      "url": "https://gitlab.hk/data1/testfacepass/-/raw/main/app/src/main/assets/YM_2.0.6.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnVYVkM4YnJhQWMvT0xtOFhWaG1JTXdiRWFXTGx1V1RyLzJnWEtRT2hnaWJKV3ppeUZBeExJdi9uKzE2TGdkYWNLQ0dYTDZFOFZRNzUraHpkRllpMGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NzM5NTAzCWZpbGU6QlpZXzIuMC42X3g2NC1zZXR1cC5uc2lzLnppcApQVEo4SVA0RGdaZ21sSnlCK1VlMGJ4T2U4dlRWWC9DTXU5a3hITUhha0ZoYlREY2trUTNGeUwrVmVUNy9hUE90Q2NUR0FFd21LNERHTTlicW9tOW9CQT09Cg==",
+      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_2.0.6.zip"
     }
     ,
     "darwin-aarch64": {

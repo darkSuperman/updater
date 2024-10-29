@@ -9,8 +9,8 @@
     }
     ,
    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnVYVkM4YnJhQWMvT0xtOFhWaG1JTXdiRWFXTGx1V1RyLzJnWEtRT2hnaWJKV3ppeUZBeExJdi9uKzE2TGdkYWNLQ0dYTDZFOFZRNzUraHpkRllpMGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NzM5NTAzCWZpbGU6QlpZXzIuMC42X3g2NC1zZXR1cC5uc2lzLnppcApQVEo4SVA0RGdaZ21sSnlCK1VlMGJ4T2U4dlRWWC9DTXU5a3hITUhha0ZoYlREY2trUTNGeUwrVmVUNy9hUE90Q2NUR0FFd21LNERHTTlicW9tOW9CQT09Cg==",
-      "url": "https://gitlab.hk/data1/testfacepass/-/raw/main/app/src/main/assets/BZY_2.0.6.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnFja3BFK1l6dUpuOENiYmtRczByUWt4OEQ5cHUrWGdhNi9RMkFIZDdKdzlLc3FabGgwQmlvSWI1S2ZhNW51eSt2V3o2QW1Wem5XWnFZci9MM1VyaXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMTcwNjEyCWZpbGU6VFpfMi4wLjZfeDY0LXNldHVwLm5zaXMuemlwCjhyTlJ5ZmJpVGJvUmp2d1VmZFoxU0xrYlBoN0t0Vk5UdTJBWlNHMldsQ1JxMDdYZFJMVy85Q3Z4UVZlcXpjTG9qZ2RQOTIwTmxqL1ltWXppNldMOUJnPT0K",
+      "url": "https://github.com/darkSuperman/updater/releases/download/new/TZ_2.0.6.zip"
     }
     ,
     "darwin-aarch64": {

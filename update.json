@@ -1,7 +1,7 @@
 {
   "name": "v2.0.7",
   "notes": "### 新版本 \n\n- 1.修复已知问题 \n 2. 其它优化 \n 3.下载更新失败可以先连接节点（以前的老版本使用Tun模式连接，没有Tun模式的直接点连接即可）线路后再更新 ",
-  "pub_date": "2024-12-25T00:08:27.197Z",
+  "pub_date": "2024-12-23T00:08:27.197Z",
   "platforms": {
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmprV1duSkpaUnlETDEvLzRBelRaZitlREJUWWF6VjFyMndFc2FGQm5EQ3AyYVk1M1pjL0ZGRnRtYXJKdXkvKzNlZVBiblR6SmFZQUtSelNuT0NXYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MDM5NDYwCWZpbGU6WU1fMi4wLjdfeDY0LXNldHVwLm5zaXMuemlwCndrdXdyZVVLN3pWRGNsRThqdTgzQ214c0xtdU9zRnQ2QmhJVitsQXVhSEVTeTJoU09HZE5XYmIydExUbjZaTjZHbis2azQ5WUd2aFV6aWNqTlpYckJRPT0K",

@@ -1,21 +1,16 @@
 {
-  "name": "v2.0.7",
-  "notes": "### 新版本 \n\n- 1.修复已知问题 \n\n- 2. 其它优化 \n\n- 3.下载更新失败可以先连接节点线路后再更新（以前的老版本使用Tun模式连接，没有Tun模式的直接点连接即可） ",
-  "pub_date": "2024-12-23T00:08:27.197Z",
+  "name": "v3.0.1",
+  "notes": "### 新版本 \n\n- 1.修复已知问题 \n\n- 2. 其它重要优化,之前版本将不可用请立即更新  \n 3.下载更新失败可以先连接节点后再更新 ",
+  "pub_date": "2026-04-23T00:08:30.197Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmprV1duSkpaUnlETDEvLzRBelRaZitlREJUWWF6VjFyMndFc2FGQm5EQ3AyYVk1M1pjL0ZGRnRtYXJKdXkvKzNlZVBiblR6SmFZQUtSelNuT0NXYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MDM5NDYwCWZpbGU6WU1fMi4wLjdfeDY0LXNldHVwLm5zaXMuemlwCndrdXdyZVVLN3pWRGNsRThqdTgzQ214c0xtdU9zRnQ2QmhJVitsQXVhSEVTeTJoU09HZE5XYmIydExUbjZaTjZHbis2azQ5WUd2aFV6aWNqTlpYckJRPT0K",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_2.0.7.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnI2blJQbjVLTit6Wmk4T04rYzcwamRXbUttaHRTWWpra2xQeHQ4UFFuUUZ4NGFWQms3YkV1dXd3aW5Dc3R3b0hmUU9iaFZTWjNWeE5hYVUxU0p1SmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTkxNTk2CWZpbGU6WU1fMy4wLjFfeDY0LXNldHVwLm5zaXMuemlwCkwyTUFiZm1yZ3ptVkZjbDhPL1hBdzg1ekRKVnhDOS82QzNNc0ZuTWhhOWNCY1ZCVlZFNENvM3Y2QytUbHdLTTNKbzd1WC8vdlkzTjgxeVZ0VFAwNEN3PT0K",
+      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_3.0.1.zip"
     }
     ,
    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNmprV1duSkpaUnlETDEvLzRBelRaZitlREJUWWF6VjFyMndFc2FGQm5EQ3AyYVk1M1pjL0ZGRnRtYXJKdXkvKzNlZVBiblR6SmFZQUtSelNuT0NXYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MDM5NDYwCWZpbGU6WU1fMi4wLjdfeDY0LXNldHVwLm5zaXMuemlwCndrdXdyZVVLN3pWRGNsRThqdTgzQ214c0xtdU9zRnQ2QmhJVitsQXVhSEVTeTJoU09HZE5XYmIydExUbjZaTjZHbis2azQ5WUd2aFV6aWNqTlpYckJRPT0K",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_2.0.7.zip"
-    }
-    ,
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnZsR3k3b2VGQUEzbjZheFczQlpwTFB0TzYyVTBPS0pvR29lY0xnSEx4WmhYWit1QVF2bUFrZUl3UVJWZnNhMnJJUzY4MmlwOG5Lb3JiTHI4NE5Vc1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MjQzMzkyCWZpbGU6WU0uYXBwLnRhci5nego2SDROZFdyM3FJSFZkQURHc2VYbFJ0bGwrNUJmem5YM2xKNGhQaWxuNDdZcG5VWEdyeDY1T3FuRE5yQ0IyQ0NVRXBMc25TUkI0R1FZS3B5TGpMbnBDUT09Cg==",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM.2_0_4.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnI2blJQbjVLTit6Wmk4T04rYzcwamRXbUttaHRTWWpra2xQeHQ4UFFuUUZ4NGFWQms3YkV1dXd3aW5Dc3R3b0hmUU9iaFZTWjNWeE5hYVUxU0p1SmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTkxNTk2CWZpbGU6WU1fMy4wLjFfeDY0LXNldHVwLm5zaXMuemlwCkwyTUFiZm1yZ3ptVkZjbDhPL1hBdzg1ekRKVnhDOS82QzNNc0ZuTWhhOWNCY1ZCVlZFNENvM3Y2QytUbHdLTTNKbzd1WC8vdlkzTjgxeVZ0VFAwNEN3PT0K",
+      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_3.0.1.zip"
     }
   }
 }

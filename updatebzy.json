@@ -5,12 +5,12 @@
   "platforms": {
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnA2TllzSlcrMWVnUjg5RW1tTTNQZEVlTzhnN3ZmSmVtS1dpYUgzQ3FqOUZLY25YcWpYbGZ3SHcrV0lPZjFTTUhSSmlTbWVqR1ZZT0xUK3REMzhTb0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTU1MTQ0CWZpbGU6QlpZXzMuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAo3MFJIeDhVTHpPNGdFV3hOT0VweXZ2QmlHRkQ3YjJWWkVQQU0zSWkvbWNnd3pvbnNJZmRLSnhvVlpNMldjUDJIdHJzWFB4cU82dHhjbkdySzU3QTJBZz09Cg==",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/BZY_3.0.1.zip"
+      "url": "https://download.bzyvpn.net/public/text/3010/bzy.zip"
     }
     ,
    "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnA2TllzSlcrMWVnUjg5RW1tTTNQZEVlTzhnN3ZmSmVtS1dpYUgzQ3FqOUZLY25YcWpYbGZ3SHcrV0lPZjFTTUhSSmlTbWVqR1ZZT0xUK3REMzhTb0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTU1MTQ0CWZpbGU6QlpZXzMuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAo3MFJIeDhVTHpPNGdFV3hOT0VweXZ2QmlHRkQ3YjJWWkVQQU0zSWkvbWNnd3pvbnNJZmRLSnhvVlpNMldjUDJIdHJzWFB4cU82dHhjbkdySzU3QTJBZz09Cg==",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/BZY_3.0.1.zip"
+      "url": "https://download.bzyvpn.net/public/text/3010/bzy.zip"
     }
   }
 }

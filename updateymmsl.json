@@ -5,12 +5,12 @@
   "platforms": {
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNm1PSGZTNUJ6MFBRNGM4b3N6VXBwNzJMd2t3cGhnd0pUUjc4K3MxdlhMdzd0SC9kczBINFlXa2Qvd1RjaFovMmZlTExueEJIZUd5R1pjSGdMaWVXVkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTkyNzM0CWZpbGU6TVNMXzMuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAp4Tm5McFpIVStMczM0eks5U1ZteVhBMExzNmVZWTErZ05PRHRpc1lWRjNtWmduWE03bE9DUlYwUEpmVldzVzZCN2laL2dDVnFzVEJmNW1IbTFnZU5BZz09Cg==",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/MSL_3.0.1.zip"
+      "url": "https://download.bzyvpn.net/public/text/3010/msl.zip"
     }
     ,
    "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNm1PSGZTNUJ6MFBRNGM4b3N6VXBwNzJMd2t3cGhnd0pUUjc4K3MxdlhMdzd0SC9kczBINFlXa2Qvd1RjaFovMmZlTExueEJIZUd5R1pjSGdMaWVXVkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTkyNzM0CWZpbGU6TVNMXzMuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAp4Tm5McFpIVStMczM0eks5U1ZteVhBMExzNmVZWTErZ05PRHRpc1lWRjNtWmduWE03bE9DUlYwUEpmVldzVzZCN2laL2dDVnFzVEJmNW1IbTFnZU5BZz09Cg==",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/MSL_3.0.1.zip"
+      "url": "https://download.bzyvpn.net/public/text/3010/msl.zip"
     }
   }
 }

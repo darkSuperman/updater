@@ -5,12 +5,12 @@
   "platforms": {
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnI2blJQbjVLTit6Wmk4T04rYzcwamRXbUttaHRTWWpra2xQeHQ4UFFuUUZ4NGFWQms3YkV1dXd3aW5Dc3R3b0hmUU9iaFZTWjNWeE5hYVUxU0p1SmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTkxNTk2CWZpbGU6WU1fMy4wLjFfeDY0LXNldHVwLm5zaXMuemlwCkwyTUFiZm1yZ3ptVkZjbDhPL1hBdzg1ekRKVnhDOS82QzNNc0ZuTWhhOWNCY1ZCVlZFNENvM3Y2QytUbHdLTTNKbzd1WC8vdlkzTjgxeVZ0VFAwNEN3PT0K",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_3.0.1.zip"
+      "url": "https://download.bzyvpn.net/public/text/3010/ym.zip"
     }
     ,
    "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnI2blJQbjVLTit6Wmk4T04rYzcwamRXbUttaHRTWWpra2xQeHQ4UFFuUUZ4NGFWQms3YkV1dXd3aW5Dc3R3b0hmUU9iaFZTWjNWeE5hYVUxU0p1SmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTkxNTk2CWZpbGU6WU1fMy4wLjFfeDY0LXNldHVwLm5zaXMuemlwCkwyTUFiZm1yZ3ptVkZjbDhPL1hBdzg1ekRKVnhDOS82QzNNc0ZuTWhhOWNCY1ZCVlZFNENvM3Y2QytUbHdLTTNKbzd1WC8vdlkzTjgxeVZ0VFAwNEN3PT0K",
-      "url": "https://github.com/darkSuperman/updater/releases/download/new/YM_3.0.1.zip"
+      "url": "https://download.bzyvpn.net/public/text/3010/ym.zip"
     }
   }
 }

@@ -1,16 +1,16 @@
 {
-  "name": "v3.0.1",
+  "name": "v3.1.0",
   "notes": "### 🚀 更新内容\n\n1. 全新优化线路，提升整体连接稳定性\n2. 新增多个节点，拓展可用资源选择\n3. 优化连接速度，显著提升使用体验\n4. 修复旧版本中存在的 BUG\n\n### ⚠️ 重要提示\n为保障服务质量，**3.0.1 以下版本将不再继续维护**。请及时更新至最新版本，以免影响正常使用。",
-  "pub_date": "2026-04-23T00:08:30.197Z",
+  "pub_date": "2026-07-15T00:08:30.197Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnVvdHp0YUo5aXI1RWtBRXdTRHgxcEgzRGtKQTZtajVjNWoxWTErMnYyWkhUWXVQdUlSeUZlTTZtL0FCQTRuYndXdjV2dFF6em9oSHBYZ2k4dzB2ZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTk0OTY1CWZpbGU6WVRfMy4wLjFfeDY0LXNldHVwLm5zaXMuemlwCkF0dmFBNTI0em8rVzhpZXgzTkdqLzBzYVlZQ211cDdtYmR2RGpER0ZYOTFSc1JhU0JtdFM2dWFZb0d2dVFKU3diWWVmS3BPTDl2K1RGbHg4RFBYU0NBPT0K",
-      "url": "https://download.bzyvpn.net/public/text/3010/yt.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnByYjY1UDhBaStKMytZVjBqN0NZdDdzWTk3WXZRQ3NnNmY2VHA5bnVobTdPN1pyaHRRSzFVVGc5NVVvWkFvWFZkRDE5M052QzhsQ2pTYVVXTlplL0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTc3NDYyCWZpbGU6WVRfMy4xLjBfeDY0LXNldHVwLm5zaXMuemlwClAzZzhJZG1VYUs2SnY3WjRqSUx4bEpWeGFRSHNDYXNoMXptdG94UzBDNWF4Ym5NcGVBd1d0Q3hwU09tWDZLMFRxTDlZV0tRMXpMSnh1eGlucnZuT0NRPT0K",
+      "url": "https://download.bzyvpn.net/public/text/8888/yt.zip"
     }
     ,
    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnVvdHp0YUo5aXI1RWtBRXdTRHgxcEgzRGtKQTZtajVjNWoxWTErMnYyWkhUWXVQdUlSeUZlTTZtL0FCQTRuYndXdjV2dFF6em9oSHBYZ2k4dzB2ZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTk0OTY1CWZpbGU6WVRfMy4wLjFfeDY0LXNldHVwLm5zaXMuemlwCkF0dmFBNTI0em8rVzhpZXgzTkdqLzBzYVlZQ211cDdtYmR2RGpER0ZYOTFSc1JhU0JtdFM2dWFZb0d2dVFKU3diWWVmS3BPTDl2K1RGbHg4RFBYU0NBPT0K",
-      "url": "https://download.bzyvpn.net/public/text/3010/yt.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXNCMzhwZzVlNnByYjY1UDhBaStKMytZVjBqN0NZdDdzWTk3WXZRQ3NnNmY2VHA5bnVobTdPN1pyaHRRSzFVVGc5NVVvWkFvWFZkRDE5M052QzhsQ2pTYVVXTlplL0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTc3NDYyCWZpbGU6WVRfMy4xLjBfeDY0LXNldHVwLm5zaXMuemlwClAzZzhJZG1VYUs2SnY3WjRqSUx4bEpWeGFRSHNDYXNoMXptdG94UzBDNWF4Ym5NcGVBd1d0Q3hwU09tWDZLMFRxTDlZV0tRMXpMSnh1eGlucnZuT0NRPT0K",
+      "url": "https://download.bzyvpn.net/public/text/8888/yt.zip"
     }
   }
 }
